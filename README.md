@@ -1,2 +1,2 @@
-# ClaseTecnicas2
+# CLaseTecnicas2
 ¡Hola mundo!
